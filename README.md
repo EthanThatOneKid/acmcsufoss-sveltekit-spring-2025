@@ -1,3 +1,6 @@
+acmcsufoss workshop:
+<https://github.com/tylermlui/SvelteKitDemo>
+
 # sv
 
 Everything you need to build a Svelte project, powered by
